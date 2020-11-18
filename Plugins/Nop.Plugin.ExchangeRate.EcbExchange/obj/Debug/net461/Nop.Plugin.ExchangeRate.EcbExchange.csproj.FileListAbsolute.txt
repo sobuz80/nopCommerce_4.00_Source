@@ -1,0 +1,11 @@
+C:\Users\Sobuz80\Desktop\nopCommerce\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\plugin.json
+C:\Users\Sobuz80\Desktop\nopCommerce\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\logo.jpg
+C:\Users\Sobuz80\Desktop\nopCommerce\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.dll
+C:\Users\Sobuz80\Desktop\nopCommerce\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.pdb
+C:\Users\Sobuz80\Desktop\nopCommerce\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\net461\Nop.Plugin.ExchangeRate.EcbExchange.csprojAssemblyReference.cache
+C:\Users\Sobuz80\Desktop\nopCommerce\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\net461\Nop.Plugin.ExchangeRate.EcbExchange.csproj.CoreCompileInputs.cache
+C:\Users\Sobuz80\Desktop\nopCommerce\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\net461\Nop.Plugin.ExchangeRate.EcbExchange.AssemblyInfoInputs.cache
+C:\Users\Sobuz80\Desktop\nopCommerce\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\net461\Nop.Plugin.ExchangeRate.EcbExchange.AssemblyInfo.cs
+C:\Users\Sobuz80\Desktop\nopCommerce\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\net461\Nop.Plugin.ExchangeRate.EcbExchange.csproj.CopyComplete
+C:\Users\Sobuz80\Desktop\nopCommerce\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\net461\Nop.Plugin.ExchangeRate.EcbExchange.dll
+C:\Users\Sobuz80\Desktop\nopCommerce\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\net461\Nop.Plugin.ExchangeRate.EcbExchange.pdb
